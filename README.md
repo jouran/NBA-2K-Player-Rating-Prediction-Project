@@ -8,6 +8,7 @@ For this project, we anticipated building a statistical connection between playe
 
 ## DataSet
 All data were collected using web scraping from the following two websites:
+
 [**Hoopshype**](https://hoopshype.com/nba2k)
 
 [**RealGM**](https://basketball.realgm.com/nba/stats/2020?Averages/Qualified/points/All/desc/1/Regular_Season)
